@@ -2,14 +2,14 @@
 
 width: 300%;
 height: 1200px;
-background-color: rgb(121, 1, 1);
+background-color: rgb(187, 66, 187);
 display:inline;
 flex-direction: column;
 
 .encabezado{
 width:100% ;
 height: 200px;
-background-color: rgb(141, 4, 4);
+background-color: rgb(197, 117, 190);
 font-size: 100px
 }
 
@@ -17,20 +17,20 @@ font-size: 100px
     width:100% ;
     height: 600px ;
     height: 5000px;
-    background-color: rgb(160, 4, 11);
+    background-color: rgb(192, 104, 192);
     font-size: 30px;
 }
 .ingles{
     width:100% ;
     height: 7000px;px;
     font-size: 30px;
-  background-color: rgb(190, 57, 57);
+  background-color: rgb(173, 87, 137);
 
 }
 .tecnologia{
     width:100% ;
     height: 8000px;
-background-color: rgb(100, 11, 11);
+background-color: rgb(199, 75, 147);
 
 font-size: 30px;
   }
