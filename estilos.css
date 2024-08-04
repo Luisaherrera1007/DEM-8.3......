@@ -1,5 +1,9 @@
 /* Temas del segundo período*/
 
+
+
+
+}
 .texto{
    
     font-size: 50px;
@@ -14,7 +18,7 @@
 }
 body{
     background-image: url("montañas.jpg");
-    background-repeat: no-repeat;
+    
 
 }
 .imagen1{
@@ -48,6 +52,52 @@ padding-top: 300px;
 font-size: 30px;
 color: black;
 text-align: center;
-
-
 }
+.imagen2{
+height: 800px;
+width: 1500px;
+background-image: url("TRASTORNOS-ALIMENTICIOS-.png");
+background-repeat: no-repeat;
+}
+.anorexia{
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 300px;
+font-size: 30px;
+color: black;
+text-align: center;
+}
+
+.imagen3{
+
+height: 300px;
+width:500px;
+background-image: url("images.png");
+background-repeat: no-repeat;
+text-align: center;
+}
+
+.bulimia{
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 300px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.imagen4{
+
+height: 214px;
+width: 2000px;
+background-image: url("bulimia.png");
+background-repeat: no-repeat;
+text-align: center;
+}
+.actividades{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 300px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
