@@ -6,8 +6,8 @@
 }
 .texto{
    
-    font-size: 50px;
-    padding-top: 240px;
+    font-size: 1000px;
+    padding-top: 500px;
     text-align: center;
     color: rgb(20, 20, 20);
     font-family: 'Times New Roman', Times, serif;
@@ -100,4 +100,111 @@ text-align: center;
     color: black;
     text-align: center;
 }
+.tomaragua{
+ height: 558px;
+width: 1000px;
+background-image: url("tomar\ agua.png");
+background-repeat: no-repeat;
 
+}
+.nobeberalcohol{
+    height: 558px;
+    width: 1000px;
+    background-image: url("no\ beber\ alcohol.png");
+    background-repeat: no-repeat;
+    
+   
+}
+.norefrescos{
+height: 400px;
+width: 1000;
+background-image: url("no\ refrescos.png");
+background-repeat: no-repeat;
+}
+.comersaludable{
+
+    height: 558px;
+    width: 1000px;
+    background-image: url("comer\ saludable.png");
+    background-repeat: no-repeat;
+}
+.ejercicio{
+
+    height: 326px;
+    width: 754px;
+    background-image: url("ejercicio.png");
+    background-repeat: no-repeat;
+}
+.dormir{
+
+    height: 326px;
+    width: 754px;
+    background-image: url("dormir.png");
+    background-repeat: no-repeat;
+}
+.noestres{
+    height: 300px;
+    width: 754px;
+    background-image: url("no\ estres.png");
+    background-repeat: no-repeat;
+}
+.relacionessaludables{
+    height: 1500px;
+    width: 1500px;
+    background-image: url("relaciones\ saludables.png");
+    background-repeat: no-repeat;
+}
+.higiene{
+    height: 400px;
+    width: 754px;
+    background-image: url("higiene.png");
+    background-repeat: no-repeat;
+}
+.cuidadodelapiel{
+
+    height: 1000px;
+    width: 754px;
+    background-image: url("cuidado\ de\ la\ piel.png");
+    background-repeat: no-repeat;
+}
+.frutasyverduras{
+
+    height: 500px;
+    width: 754px;
+    background-image: url("frutas\ y\ verduras.png");
+    background-repeat: no-repeat;
+}
+.reducirazucar{
+
+    height: 500px;
+    width: 754px;
+    background-image: url("reducir\ azucar.png");
+    background-repeat: no-repeat;
+}
+.mapamental{
+    height: 2000px;
+    width: 2000px;
+    background-image: url("Documento\ A4\ Mapa\ Mental\ Sencillo\ Doodle\ Multicolor.png");
+    background-repeat: no-repeat;
+}
+.socialesactividad{
+    padding-top: 300px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.lu{
+
+    height: 500px;
+    width: 700px;
+    background-image: url("Lu.jpeg");
+    background-repeat: no-repeat;
+}
+.daniela{
+    height: 500px;
+    width: 700px;
+    background-image: url("daniela.jpeg");
+    background-repeat: no-repeat;
+
+
+}
