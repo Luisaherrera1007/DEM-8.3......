@@ -3,7 +3,7 @@
 
 
 
-}
+
 .texto{
    
     font-size: 1000px;
@@ -207,4 +207,27 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
 
 
+}
+.tituloin{
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 300px;
+        font-size: 30px;
+        color: black;
+        text-align: center;
+}
+.titulosoc{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 300px;
+        font-size: 30px;
+        color: black;
+        text-align: center;
+}
+.titulotec{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 300px;
+        font-size: 30px;
+        color: black;
+        text-align: center;
 }
