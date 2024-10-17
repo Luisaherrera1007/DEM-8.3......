@@ -263,6 +263,67 @@ text-align: center;
     text-align: center;
 }  
 
+.paz{
+
+    height: 500px;
+    width: 700px;
+    background-image: url("paz.jpg");
+    background-repeat: no-repeat;
+text-align: center;
+
+}
+.regla1{
+
+    height: 500px;
+    width: 700px;
+    background-image: url("trataalosdemas.jfif");
+    background-repeat: no-repeat;
+text-align: center;
+
+}
+.regla2{
+
+    height: 500px;
+    width: 1000px;
+    background-image: url("escuchar.jpg");
+    background-repeat: no-repeat;
+text-align: center;
+
+}
+.regla3{
+    height: 500px;
+    width: 700px;
+    background-image: url("diferencias.png");
+    background-repeat: no-repeat;
+text-align: center;
+
+}
+.regla4{
+
+    height: 500px;
+    width: 700px;
+    background-image: url("violencia.webp");
+    background-repeat: no-repeat;
+text-align: center;
 
 
+}
+.regla5{
+
+    height: 500px;
+    width: 1000px;
+    background-image: url("identidad.jfif");
+    background-repeat: no-repeat;
+text-align: center;
+
+}
+.regla6{
+    height: 500px;
+    width: 700px;
+    background-image: url("estereotipos.webp");
+    background-repeat: no-repeat;
+text-align: center;
+
+
+}
 
