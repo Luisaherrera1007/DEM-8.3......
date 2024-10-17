@@ -1,11 +1,11 @@
-.contenedor{ 
+.contenedor{
 
 width: 300%;
 height: 1200px;
 background-color: rgb(187, 66, 187);
 display:inline;
 flex-direction: column;
-}
+
 .encabezado{
 width:100% ;
 height: 200px;
@@ -22,7 +22,7 @@ font-size: 100px
 }
 .ingles{
     width:100% ;
-    height: 700px;
+    height: 7000px;px;
     font-size: 30px;
   background-color: rgb(173, 87, 137);
 
@@ -31,11 +31,11 @@ font-size: 100px
     width:100% ;
     height: 8000px;
 background-color: rgb(199, 75, 147);
-font-size: 30px;
 
-}
-.titulo {  
+font-size: 30px;
+  }
+.titulo {
 font: size 70px;
-color: rgb(0, 0, 0);
+color: black;
 
 }

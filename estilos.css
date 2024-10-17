@@ -6,7 +6,7 @@
 
 .texto{
    
-    font-size: 100px;
+    font-size: 1000px;
     padding-top: 500px;
     text-align: center;
     color: rgb(20, 20, 20);
@@ -18,8 +18,7 @@
 }
 body{
     background-image: url("montañas.jpg");
-    height: 500px;
-    width: 500px;
+    
 
 }
 .imagen1{
@@ -254,73 +253,15 @@ text-align: center;
 text-align: center;
 }
 
-.mapa{
-height: 800px;
-width: 7000px;
-background-image: url(mapa.png);
-background-repeat: no-repeat
-}
 
-.ingleswebp{
-height: 700px;
-width: 700px;
-background-image: url(ingles.webp);
-background-repeat: no-repeat
-}
+.textoin3{
 
-
-.texto1{
-   
-    font-size: 50px;
-    padding-top: 50px;
-    color: rgb(20, 20, 20);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 300px;
+    font-size: 30px;
+    color: black;
     text-align: center;
-}
-.futurista {
-    height: 700px;
-    width: 700px;
-    background-image: url(futurista.png);
-    background-repeat: no-repeat
-      }
-.texto2{
-   
-    font-size: 50px;
-    padding-top: 50px;
-    color: rgb(20, 20, 20);
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-   }
- .geografia {
-
-    height: 700px;
-    width: 700px;
-    background-image: url(geografia.png);
-    background-repeat: no-repeat
-
- }
-.texto3{
-
-    font-size: 50px;
-    padding-top: 50px;
-    color: rgb(20, 20, 20);
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
+}  
 
 
 
