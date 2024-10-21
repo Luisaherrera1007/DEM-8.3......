@@ -311,8 +311,63 @@ background-repeat: no-repeat
 
 
 }
+.tituloin3{
+    font-size: 50px;
+    padding-top: 50px;
+    color: rgb(20, 20, 20);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 
 
+
+
+
+
+}
+.paz{
+    height: 700px;
+    width: 700px;
+    background-image: url(paz.jpg);
+    background-repeat: no-repeat
+}
+.trataalosdemas{
+    height: 700px;
+    width: 700px;
+    background-image: url(trataalosdemas.jfif);
+    background-repeat: no-repeat
+}
+.escuchar{
+    height: 700px;
+    width: 700px;
+    background-image: url(escuchar.jpg);
+    background-repeat: no-repeat
+
+}
+.aceptar{
+
+    height: 700px;
+    width: 700px;
+    background-image: url(diferencias.png);
+    background-repeat: no-repeat
+}
+.violencia{
+    height: 700px;
+    width: 700px;
+    background-image: url(violencia.webp);
+    background-repeat: no-repeat
+}
+.identidad{
+    height: 700px;
+    width: 700px;
+    background-image: url(identidad.jfif);
+    background-repeat: no-repeat
+}
+.estereotipos{
+    height: 700px;
+    width: 700px;
+    background-image: url(estereotipos.webp);
+    background-repeat: no-repeat
+}
 
 
 
